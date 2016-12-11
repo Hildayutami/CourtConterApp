@@ -79,21 +79,21 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="addThreeForTeamA"
+            android:onClick="addThreeForTeamB"
             android:padding="8dp"
             android:text="+3 Points" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="addTwoForTeamA"
+            android:onClick="addTwoForTeamB"
             android:padding="8dp"
             android:text="+2 Points" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="addOneForTeamA"
+            android:onClick="addOneForTeamB"
             android:padding="8dp"
             android:text="Free Throw" />
 
